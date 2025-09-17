@@ -26,17 +26,17 @@ This dashboard provides a **360° view of portfolio health**, highlights potenti
 ---
 
 ## 📂 Project Structure
-├── home.py # Streamlit Home Page (intro, usage, goals)
-├── preprocessing.py # Data preprocessing & global filters
-├── utils/
-│ └── dataset.py # Custom load_data function (loads from Drive link)
-├── pages/
-│ ├── 1_Overview.py # Dataset quality & KPIs
-│ ├── 2_Credit.py # Credit & loan analysis
-│ ├── 3_Demographics.py # Demographics & household profile
-│ ├── 4_Risk.py # Risk segmentation
-├── practice.ipynb # Practice notebook for testing analysis
-└── README.md # Project documentation
+├── home.py # Streamlit Home Page (intro, usage, goals).                            
+├── preprocessing.py # Data preprocessing & global filters.                                          
+├── utils/.                   
+│ └── dataset.py # Custom load_data function (loads from Drive link).          
+├── pages/.
+│ ├── 1_Overview.py # Dataset quality & KPIs.    
+│ ├── 2_Credit.py # Credit & loan analysis.    
+│ ├── 3_Demographics.py # Demographics & household profile.   
+│ ├── 4_Risk.py # Risk segmentation.     
+├── practice.ipynb # Practice notebook for testing analysis.    
+└── README.md # Project documentation.    
 📊 Dataset
 
 The dataset is not uploaded directly due to size.
@@ -82,5 +82,6 @@ pip install streamlit pandas numpy matplotlib scipy
 📌 Notes
 
 Replace the Google Drive link in utils/dataset.py with your own if the original is inaccessible.
+
 
 Ensure that the Drive file is shared with "Anyone with the link" for proper loading.
