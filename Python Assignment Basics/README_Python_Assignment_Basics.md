@@ -124,9 +124,3 @@ This project is open for educational use. You may reuse or modify for learning p
 
 ---
 
-### 🌟 Learn, Practice & Visualize Your Python Journey
-
-Organize and track your Python learning with **HubSpot’s project management tools** — perfect for educators, developers, and data enthusiasts!  
-(affiliate) 👉 [Try HubSpot Free](https://go.try-hubspot.com/c/6231120/1001264/12893)
-
----
